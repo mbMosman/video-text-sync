@@ -1,0 +1,215 @@
+1
+00:00:05,466 --> 00:00:09,466
+Hi guys, I'm Mary Mosman. I'm your instructor
+
+2
+00:00:09,466 --> 00:00:13,600
+for the course this semester.  I just wanted to say hello before class starts
+
+3
+00:00:13,600 --> 00:00:17,700
+and let you kinda see who I am. So I am one of the full time
+
+4
+00:00:17,700 --> 00:00:21,666
+instructors at HTC, so feel free to reach out to me if you have
+
+5
+00:00:21,666 --> 00:00:25,466
+questions about our program or different classes. Um.
+
+6
+00:00:25,466 --> 00:00:29,466
+prerequisites, which order you should take classes in, when they might be
+
+7
+00:00:29,466 --> 00:00:33,666
+offered, general things like that. In addition to, of course, if you have questions
+
+8
+00:00:33,666 --> 00:00:42,166
+about this particular class, your assignments and things that you're working on.
+
+9
+00:00:42,166 --> 00:00:46,166
+So my office hours are posted on the syllabus. Feel free to
+
+10
+00:00:46,166 --> 00:00:50,166
+stop in, in-person. Um. You can also do
+
+11
+00:00:50,166 --> 00:00:54,166
+online meetings as well, so there are some preferred times for that
+
+12
+00:00:54,166 --> 00:00:58,166
+listed in the syllabus, but as long as you set something up with me in advance, and that works
+
+13
+00:00:58,166 --> 00:01:02,166
+for both of our schedules, I'm pretty flexible. I do ask though that
+
+14
+00:01:02,166 --> 00:01:06,166
+you try to set that up with me at least a day in advance, and for the weekends
+
+15
+00:01:06,166 --> 00:01:10,166
+um make sure you set up a time with me before 5 o'clock on Friday.
+
+16
+00:01:10,166 --> 00:01:16,533
+So that I can know my schedule for the weekend as well.
+
+17
+00:01:16,533 --> 00:01:20,533
+It works pretty well to do the online appointments.  We can do a
+
+18
+00:01:20,533 --> 00:01:24,533
+video meeting kinda like this where we can talk through somethings.
+
+19
+00:01:24,533 --> 00:01:28,533
+Um or we can do a screen share session. So if
+
+20
+00:01:28,533 --> 00:01:32,533
+you're working on an assignment, where it's more helpful to be looking at what you're
+
+21
+00:01:32,533 --> 00:01:36,533
+doing, we can do that too. And kinda talk through what you're working
+
+22
+00:01:36,533 --> 00:01:40,533
+on, how it's turning out, you know if things are behaving the way you expect
+
+23
+00:01:40,533 --> 00:01:44,533
+we can kind of interactively go through that, just like if we were in-person.
+
+24
+00:01:44,533 --> 00:01:48,533
+So I do encourage you to take advantage of this.  I don't want
+
+25
+00:01:48,533 --> 00:01:52,533
+you to feel like you're alone in the course. I'm here to help you. You just need to reach out to me
+
+26
+00:01:52,533 --> 00:01:58,633
+and let me know that you need some help.
+
+27
+00:01:58,633 --> 00:02:02,633
+You can also feel free to hit me up if you have questions about, um
+
+28
+00:02:02,633 --> 00:02:06,633
+what it's like to actually work as a developer out there in industry.
+
+29
+00:02:06,633 --> 00:02:10,633
+I do have 15 years plus, really, of experience
+
+30
+00:02:10,633 --> 00:02:14,633
+before I started here teaching full-time, so I've worked of
+
+31
+00:02:14,633 --> 00:02:18,633
+companies around the Twin Cities area. Um My background is in
+
+32
+00:02:18,633 --> 00:02:22,633
+Web Development with Java, JavaScript,
+
+33
+00:02:22,633 --> 00:02:26,633
+HTML, CSS, things like that.  Of course I've worked with databases too.
+
+34
+00:02:26,633 --> 00:02:30,633
+So feel free, if you've got questions about what it's like to
+
+35
+00:02:30,633 --> 00:02:34,633
+work out there, if you wanna talk about the job market. Um. Things
+
+36
+00:02:34,633 --> 00:02:38,233
+like that, feel free to hit me up for questions like that as well.
+
+37
+00:02:38,233 --> 00:02:42,233
+You can also connect with on LinkedIn, I do have an
+
+38
+00:02:42,233 --> 00:02:46,233
+HTC CCIS alumni group out there. It's a pretty cool community
+
+39
+00:02:46,233 --> 00:02:50,233
+We've occasionally had Happy Hours and I post job
+
+40
+00:02:50,233 --> 00:02:54,233
+postings and things like that out there for the group as well. Um
+
+41
+00:02:54,233 --> 00:02:58,233
+It is an alumni group, so you want to hit me up to get in the group as you're about
+
+42
+00:02:58,233 --> 00:03:02,233
+to graduate, um, but you can certainly connect with me on
+
+43
+00:03:02,233 --> 00:03:08,033
+LinkedIn in the mean time as well.
+
+44
+00:03:08,033 --> 00:03:12,033
+So you might also here that I like to game, and that would be true.
+
+45
+00:03:12,033 --> 00:03:16,033
+Um Computer games mostly, but board games are cool too.
+
+46
+00:03:16,033 --> 00:03:20,033
+I do have a Steam group out there, so if you too like to game
+
+47
+00:03:20,033 --> 00:03:24,033
+you should let me know and I would be more than happy to add you to our Steam
+
+48
+00:03:24,033 --> 00:03:28,033
+group that is specifically for HTC CCIS students
+
+49
+00:03:28,033 --> 00:03:32,033
+Um I don't play so many games myself over
+
+50
+00:03:32,033 --> 00:03:36,033
+the semester. You guys actually keep me quite busy. But the group
+
+51
+00:03:36,033 --> 00:03:40,033
+is really more about getting to know other students that have similar
+
+52
+00:03:40,033 --> 00:03:44,033
+interests, making some new friends, and just enjoying your free time.  So
+
+53
+00:03:44,033 --> 00:03:48,033
+if you're interested, send me your Steam name and I would be more
+
+54
+00:03:48,033 --> 00:03:50,199
+than happy to add you to the Steam group.
